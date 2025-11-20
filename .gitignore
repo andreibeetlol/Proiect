@@ -1,5 +1,15 @@
+# Build Artifacts
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+*.log
+*.user
+*.suo
+*.lock.json
+.vscode/
+.idea/
+
+# Database
+app.db
+app.db-shm
+app.db-wal
+data/
